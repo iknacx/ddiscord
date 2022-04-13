@@ -25,6 +25,7 @@
 		<div>
 			<h1>Decentralized Discord</h1>
 			<p>Connect your wallet to be able to send messages on DDiscord :)</p>
+			<p><b>(use rinkeby network)</b></p>
 			<button class="connect-wallet-btn" on:click={connectWallet}>Connect Wallet</button>
 		</div>
 	</div>
