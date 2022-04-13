@@ -188,7 +188,7 @@
 
     span {
         border-radius: 15px 0 0 15px;
-        
+        cursor: pointer;
         height: 100%;
         text-align: center;
         flex-basis: 90%;
